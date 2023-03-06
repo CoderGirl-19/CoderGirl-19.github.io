@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Shkuri Biggerstaff | Resume</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <header>
         <h1>Shkuri Biggerstaff</h1>
-        <p>1900 Commerce street &#x2022; Tacoma, WA 98402 &#x2022; (253)555-2222 &#x2022; abcd@uw.edu</p>
+        <p>1900 Commerce Street &#x2022; Tacoma, WA 98402&#x2022; 253-555-2222 &#x2022; abcd@uw.edu</p>
     </header>
     <hr class="firstLine">
     <hr class="secondLine">
@@ -16,15 +18,16 @@
             <div class="row">
                 <div class="left">EDUCATION</div>
                 <div class="right"><strong>Bachelor of Information Technology </strong><br>
-                    University of Washington <br>
-                    Major: Information Technology <br>
+                    University of Washington Tacoma, WA <br>
+                    Major: IT <br>
                     GPA 3.8/4.0, cum laude <br>
                     Expected Graduation Date: June 2024</div>
             </div>
         </section>
+
         <section>
             <div class="row">
-                <div class="left">COMPUTER SCIENCE</div>
+                <div class="left">COMPUTER<br> SKILLS</div>
                 <div class="right"><strong>Languages:</strong> HTML, CSS, C#, and Python <br>
                     <strong>Operating Environment:</strong> Windows 10 <br>
                     <strong>Business Tools: </strong>Spreadsheets, Word Processing, Presentation, <br>
@@ -32,17 +35,18 @@
                 </div>
             </div>
         </section>
+
         <section>
             <div class="row">
                 <div class="left">EXPERIENCE</div>
                 <div class="right"> <strong>Starbucks,</strong> December 2021 - July 2022 <br>
-                    University of Washington, Tacoma, WA
+                    Olympia, WA
                     <ul class="right" >
-                        <li>Strengthened interpersonal skills by assisting teammates during rush times by consistently communicating 
-                            project</li>
-                        <li>Collaborated with teammates to keep the store replenished and stocked at all times resulting in reduced wait times</li>
+                        <li>Strengthened interpersonal skills by assisting teammates during rush times by consistently communicating
+                            </li>
+                        <li>Collaborated with teammates to keep the store replenished and stocked at all times resulting in reduced wait times.</li>
                     </ul>
-                    <div class="right"><strong>Foundations of Human-Computer Interaction Team Project,</strong> Fall 2022 <br>
+                    <div class="right"><strong>Foundation of Human-Computer Interaction Team Project,</strong> Fall 2022 <br>
                         University of Washington, Tacoma, WA
                         <ul class="right">
                             <li>Identified and analyzed users needs and centered them in the
@@ -52,14 +56,13 @@
                             <li>Utilized technical writing skills to curate appendix as well as produce a prototype to demonstrate the interaction process and reveal usability issues as well as any conceptual model discrepancies.</li>
                         </ul>
                     </div>
-                    <div class="right"><strong>Foundations of Web Design and Programming Team Project,</strong> Winter 2023 <br>
+                    <div class="right"><strong>Foundation of Web Design and Programming Team Project,</strong> Winter 2023 <br>
                         University of Washington, Tacoma, WA
                         <ul class="right">
-                            <li>Identified customer requirements and business needs for their desired website.</li>
-                            <li>Implemented client-side web applications using website development tools such as Sublime and Visual Studio Code to produce high quality site elements</li>
-                                <li> Used programming languages such as HTML, CSS, and JavaScript to deliver fully functioning webpage.</li>
-                            <li>Utilized tools such as Office 360 Presentation and frameworks to design, implement, and deploy a web
-                                application.</li>
+                            <li>Acquired customer requirements and business needs for their desired website.</li>
+                            <li>Implemented client-side web applications using website development tools such as Sublime and Visual Studio Code to produce high quality site elements.</li>
+                            <li>Used programming languages such as HTML, CSS, and JavaScript to deliver fully functioning webpage.</li>
+                            <li> Utilized tools such as Office 360 Presentation and frameworks to design, implement, and deploy a web application </li>
                         </ul>
                     </div>
         </section>
@@ -67,8 +70,8 @@
         <section>
             <div class="row">
                 <div class="left">HONORS</div>
-                <div class="right">Dean's List 2022 & 2023<br>
-                    School of Engineering and Technology Scholarship Grant, 2022 & 2023 <br>
+                <div class="right">Dean's List, 2022 & 2023 <br>
+                    School of Engineering and Technology Scholarship, 2022 & 2023<br>
                 </div>
             </div>
         </section>
@@ -76,8 +79,8 @@
         <section>
             <div class="row">
                 <div class="left">ACTIVITIES</div>
-                <div class="right">Volunteer - Thurston County Food Bank, 2021 - Present<br>
-                    Women in Cybersecurity Club, 2023<br>
+                <div class="right">Thurston County Food Bank Volunteer, 2021 - Present <br>
+                    Women in Cybersecurity Club, 2023 <br>
                     Engineers Without Borders, 2023
                 </div>
             </div>
